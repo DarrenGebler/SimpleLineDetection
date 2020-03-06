@@ -1,1 +1,1 @@
-"#SimpleLineDetection" 
+#SimpleLineDetection
